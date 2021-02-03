@@ -5,3 +5,6 @@ What you do is, you send an email to a specific email address and your assistant
 
 This project is ment to be self hosted by yourself on your own server.
 
+
+
+MIT License
